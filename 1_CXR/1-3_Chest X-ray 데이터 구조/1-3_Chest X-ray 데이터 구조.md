@@ -19,15 +19,15 @@ Created by: 건희 이
 - File Meta Information
 - Object Instance (Information Object)
 
-![이미지 출저: https://www.opswat.com/blog/opswat-deep-cdr-now-supports-dicom-file-format](3%20Chest%20X-ray%20%E1%84%83%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%90%E1%85%A5%20%E1%84%80%E1%85%AE%E1%84%8C%E1%85%A9%20314c3a0245a24540835dbe70163b4b77/Untitled.png)
+<img src="/1_CXR/1-3_Chest X-ray 데이터 구조/Untitled.png"></img><br/>
 
 이미지 출저: https://www.opswat.com/blog/opswat-deep-cdr-now-supports-dicom-file-format
 
-![이미지 출처: https://www.sciencedirect.com/topics/computer-science/formatted-file](3%20Chest%20X-ray%20%E1%84%83%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%90%E1%85%A5%20%E1%84%80%E1%85%AE%E1%84%8C%E1%85%A9%20314c3a0245a24540835dbe70163b4b77/Untitled%201.png)
+<img src="/1_CXR/1-3_Chest X-ray 데이터 구조/Untitled 1.png"></img><br/>
 
 이미지 출처: https://www.sciencedirect.com/topics/computer-science/formatted-file
 
-![이미지 출처: [https://www.leadtools.com/help/sdk/v21/dicom/api/overview-basic-dicom-file-structure.html](https://www.leadtools.com/help/sdk/v21/dicom/api/overview-basic-dicom-file-structure.html)](3%20Chest%20X-ray%20%E1%84%83%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%90%E1%85%A5%20%E1%84%80%E1%85%AE%E1%84%8C%E1%85%A9%20314c3a0245a24540835dbe70163b4b77/Untitled%202.png)
+<img src="/1_CXR/1-3_Chest X-ray 데이터 구조/Untitled 2.png"></img><br/>
 
 이미지 출처: [https://www.leadtools.com/help/sdk/v21/dicom/api/overview-basic-dicom-file-structure.html](https://www.leadtools.com/help/sdk/v21/dicom/api/overview-basic-dicom-file-structure.html)
 
@@ -37,7 +37,7 @@ Created by: 건희 이
 - DICOM prefix: preamble 다음에 “DICM”이 나와야 DICOM임을 확인
 - File Meta Elements
 
-![이미지 출처: [https://slidesplayer.org/slide/12934045/](https://slidesplayer.org/slide/12934045/)](3%20Chest%20X-ray%20%E1%84%83%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%90%E1%85%A5%20%E1%84%80%E1%85%AE%E1%84%8C%E1%85%A9%20314c3a0245a24540835dbe70163b4b77/Untitled%203.png)
+<img src="/1_CXR/1-3_Chest X-ray 데이터 구조/Untitled 3.png"></img><br/>
 
 이미지 출처: [https://slidesplayer.org/slide/12934045/](https://slidesplayer.org/slide/12934045/)
 
@@ -49,17 +49,17 @@ Created by: 건희 이
     각 entity는 해당 entity에 어울리는 데이터 종류(Module)로 구성 (환자정보 entity - 나이, 체중, 이름 module)
     Module의 실질적 값이 attribute
         
-        ![이미지 출처: [https://libertegrace.tistory.com/m/entry/Medical-Image-DICOMDigital-Imaging-and-Communications-in-Medicine?category=905970](https://libertegrace.tistory.com/m/entry/Medical-Image-DICOMDigital-Imaging-and-Communications-in-Medicine?category=905970)](3%20Chest%20X-ray%20%E1%84%83%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%90%E1%85%A5%20%E1%84%80%E1%85%AE%E1%84%8C%E1%85%A9%20314c3a0245a24540835dbe70163b4b77/Untitled%204.png)
+        <img src="/1_CXR/1-3_Chest X-ray 데이터 구조/Untitled 4.png"></img><br/>
         
         이미지 출처: [https://libertegrace.tistory.com/m/entry/Medical-Image-DICOMDigital-Imaging-and-Communications-in-Medicine?category=905970](https://libertegrace.tistory.com/m/entry/Medical-Image-DICOMDigital-Imaging-and-Communications-in-Medicine?category=905970)
         
-        ![이미지 출처: [https://slidesplayer.org/slide/12934045/](https://slidesplayer.org/slide/12934045/)](3%20Chest%20X-ray%20%E1%84%83%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%90%E1%85%A5%20%E1%84%80%E1%85%AE%E1%84%8C%E1%85%A9%20314c3a0245a24540835dbe70163b4b77/Untitled%205.png)
+        <img src="/1_CXR/1-3_Chest X-ray 데이터 구조/Untitled 5.png"></img><br/>
         
         이미지 출처: [https://slidesplayer.org/slide/12934045/](https://slidesplayer.org/slide/12934045/)
         
 - data element: 실질적 data (attributes)로 tag를 통해 구분
 
-![이미지 출처: [https://towardsdatascience.com/understanding-dicom-bce665e62b72?gi=c2adb34ff1a5](https://towardsdatascience.com/understanding-dicom-bce665e62b72?gi=c2adb34ff1a5)](3%20Chest%20X-ray%20%E1%84%83%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%90%E1%85%A5%20%E1%84%80%E1%85%AE%E1%84%8C%E1%85%A9%20314c3a0245a24540835dbe70163b4b77/Untitled%206.png)
+        <img src="/1_CXR/1-3_Chest X-ray 데이터 구조/Untitled 6.png"></img><br/>
 
 이미지 출처: [https://towardsdatascience.com/understanding-dicom-bce665e62b72?gi=c2adb34ff1a5](https://towardsdatascience.com/understanding-dicom-bce665e62b72?gi=c2adb34ff1a5)
 
@@ -67,6 +67,6 @@ Created by: 건희 이
 
 - MicroDicom DICOM viewer, Sante DICOM viewer 등
     
-    ![MicroDicom viewer로 본 Chest AP](3%20Chest%20X-ray%20%E1%84%83%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%90%E1%85%A5%20%E1%84%80%E1%85%AE%E1%84%8C%E1%85%A9%20314c3a0245a24540835dbe70163b4b77/Untitled%207.png)
+    <img src="/1_CXR/1-3_Chest X-ray 데이터 구조/Untitled 7.png"></img><br/>
     
     MicroDicom viewer로 본 Chest AP
