@@ -1,7 +1,7 @@
 # 1. MRIs 촬영 원리 및 방법
 
 Modality: MRI
-Created by: 태훈 이
+Created by: 이태훈
 
 # MRI 란
 
