@@ -3,7 +3,7 @@
 ## 1. Introduction
 
 🐲 To study all about Medical imaging with DL, 
-including X-rays, CT scans, MRIs, Ultrasonography, and Pathological images under the affiliation of Seoul National University Hospital.  
+including X-rays, CT scans, MRIs, Ultrasonography, and Pathological images under the affiliation of **Seoul National University Hospital.**  
 
 ✅Date : 2024.02.12 (Mon) - 2024.02.29 (Thur)  
 ✅First Meeting : 2024.02.23 (Fri)  
