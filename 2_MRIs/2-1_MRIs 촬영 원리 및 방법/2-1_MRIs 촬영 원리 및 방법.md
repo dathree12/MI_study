@@ -19,7 +19,7 @@ Created by: 태훈 이
 
 # 대표적인 촬영 구도(Axial, Coronal, Sagittal)
 
-![Untitled](1%20MRIs%20%E1%84%8E%E1%85%AA%E1%86%AF%E1%84%8B%E1%85%A7%E1%86%BC%20%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%85%E1%85%B5%20%E1%84%86%E1%85%B5%E1%86%BE%20%E1%84%87%E1%85%A1%E1%86%BC%E1%84%87%E1%85%A5%E1%86%B8%20d75aa746984944bea0d0e0e19973c48d/Untitled.png)
+<img src="/2_MRIs/2-1_MRIs 촬영 원리 및 방법/Untitled.png"></img><br/>
 
 ### **1. Axial(축 방향) View**
 
