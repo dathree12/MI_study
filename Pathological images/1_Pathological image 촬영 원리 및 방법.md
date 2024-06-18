@@ -25,7 +25,7 @@ Created by: Daseul Park
 ”**조직학적 진단, 등급(Grade) / 병기(Stage 관련 항목, 크기, 임파선 전이 여부, 절연침범 여부, 기타”**
 - 진단 외에 예후 및 치료에 필요한 소견들을 병리 검사를 통해 확인하고 보고서에 기술한다.
 
-![이미지 출처 : 2022 공학자를 위한 임상개론 수업자료 (병리과 문경철 교수님)](1%20Pathological%20image%20%E1%84%8E%E1%85%AA%E1%86%AF%E1%84%8B%E1%85%A7%E1%86%BC%20%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%85%E1%85%B5%20%E1%84%86%E1%85%B5%E1%86%BE%20%E1%84%87%E1%85%A1%E1%86%BC%E1%84%87%E1%85%A5%E1%86%B8%20002e089d1bc048aab24bb627a696632f/Untitled.png)
+<img src="/Pathological images/1 Pathological image 촬영 원리 및 방법/Untitled 1.png" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>)
 
 이미지 출처 : 2022 공학자를 위한 임상개론 수업자료 (병리과 문경철 교수님)
 
