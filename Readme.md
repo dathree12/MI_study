@@ -1,11 +1,9 @@
 # Medical Image Study (2024)
 
-$\color{#B2C8BA}\rule{480px}{5px}$
-
 ## 1. Introduction
 
 🐲 To study all about Medical imaging with DL, 
-including X-rays, CT scans, MRIs, Ultrasonography, and Pathological images.
+including X-rays, CT scans, MRIs, Ultrasonography, and Pathological images under the affiliation of Seoul National University Hospital.
 
 ✅Date : 2024.02.12 (Mon) - 2024.02.29 (Thur)
 ✅First Meeting : 2024.02.23 (Fri)
@@ -19,8 +17,6 @@ including X-rays, CT scans, MRIs, Ultrasonography, and Pathological images.
 - 박세연 (Ultrasonography)   : [https://github.com/SEYEONEE](https://github.com/SEYEONEE)
 - 이건희 (Chest X-ray)       : [https://github.com/geony-yi](https://github.com/geony-yi/)
 - 이태훈 (MRIs)              : [https://github.com/LeeTaeHoon97](https://github.com/LeeTaeHoon97)
-
-💚Member github💚
 
 **💡1. 작성 주제**
 
