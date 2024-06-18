@@ -48,7 +48,7 @@ pi = dcm.PhotometricInterpretation
     - MONOCHROME2: 최소값을 갖는 pixel이 검정색으로 나타나는 gray scale image.
     - RGB: color image
     
-    ![좌: MONOCHROME2, 우: MONOCHROME1](4%20Chest%20X-ray%20%E1%84%8E%E1%85%A5%E1%84%85%E1%85%B5%20%E1%84%80%E1%85%B5%E1%84%87%E1%85%A5%E1%86%B8%2056e775e488e247dd8bc943c32ef4722e/Untitled.png)
+    <img src="/1_CXR/1-4_Chest X-ray 처리 기법/Untitled.png"></img><br/>
     
     좌: MONOCHROME2, 우: MONOCHROME1
     
