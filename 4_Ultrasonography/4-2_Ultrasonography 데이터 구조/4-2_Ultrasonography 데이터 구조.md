@@ -10,7 +10,7 @@ Created by: 세연 박
     - File meta information (header)+ object instance
     - header에는 환자정보, 영상 정보 및 기타 데이터 정보가 포함됨
 
-![Untitled](2%20Ultrasonography%20%E1%84%83%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%90%E1%85%A5%20%E1%84%80%E1%85%AE%E1%84%8C%E1%85%A9%20df5220d177a34efcb0e2a849a626df69/Untitled.png)
+     <img src="/4_Ultrasonography/4-2_Ultrasonography 데이터 구조/Untitled.png"></img><br/>
 
 ### References
 
