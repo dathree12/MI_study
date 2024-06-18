@@ -26,13 +26,12 @@ Created by: 건희 이
 - 골격 구조 외에 장기 등의 내부 구조를 촬영할 때는 장기가 더 뚜렷하게 나타나도록 황산바륜 또는 염료를 환자에게 투여.
 - 일반적으로 X-ray 촬영시 사용되는 방사선의 양은 위험하지 않지만, 임신중인 환자의 경우 예방 조치 권장.
 
-![이미지 출처: https://en.wikipedia.org/wiki/Projectional_radiography](1%20Chest%20X-ray%20%E1%84%8E%E1%85%AA%E1%86%AF%E1%84%8B%E1%85%A7%E1%86%BC%20%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%85%E1%85%B5%20%E1%84%86%E1%85%B5%E1%86%BE%20%E1%84%87%E1%85%A1%E1%86%BC%E1%84%87%E1%85%A5%E1%86%B8%2092f9a0a494cb4caab0d15b9cf9fa3401/Untitled.png)
-
+<img src="/1_CXR/1-1_Chest X-ray 촬영 원리 및 방법/Untitled.png"></img><br/>)
 이미지 출처: https://en.wikipedia.org/wiki/Projectional_radiography
 
 # Chest X-ray 종류
 
-![Untitled](1%20Chest%20X-ray%20%E1%84%8E%E1%85%AA%E1%86%AF%E1%84%8B%E1%85%A7%E1%86%BC%20%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%85%E1%85%B5%20%E1%84%86%E1%85%B5%E1%86%BE%20%E1%84%87%E1%85%A1%E1%86%BC%E1%84%87%E1%85%A5%E1%86%B8%2092f9a0a494cb4caab0d15b9cf9fa3401/Untitled%201.png)
+<img src="/1_CXR/1-1_Chest X-ray 촬영 원리 및 방법/Untitled 1.png"></img><br/>)
 
 ### PA (Posterior - Anterior)
 
@@ -51,13 +50,13 @@ Created by: 건희 이
 
 ### Lateral
 
-![Untitled](1%20Chest%20X-ray%20%E1%84%8E%E1%85%AA%E1%86%AF%E1%84%8B%E1%85%A7%E1%86%BC%20%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%85%E1%85%B5%20%E1%84%86%E1%85%B5%E1%86%BE%20%E1%84%87%E1%85%A1%E1%86%BC%E1%84%87%E1%85%A5%E1%86%B8%2092f9a0a494cb4caab0d15b9cf9fa3401/Untitled%202.png)
+<img src="/1_CXR/1-1_Chest X-ray 촬영 원리 및 방법/Untitled 2.png"></img><br/>)
 
 - 심장이나 횡경막 뒤 숨어있는 폐의 병변 확인을 위한 영상으로 일반적으로 PA와 함께 촬
 
 ### Decubitus
 
-![Untitled](1%20Chest%20X-ray%20%E1%84%8E%E1%85%AA%E1%86%AF%E1%84%8B%E1%85%A7%E1%86%BC%20%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%85%E1%85%B5%20%E1%84%86%E1%85%B5%E1%86%BE%20%E1%84%87%E1%85%A1%E1%86%BC%E1%84%87%E1%85%A5%E1%86%B8%2092f9a0a494cb4caab0d15b9cf9fa3401/Untitled%203.png)
+<img src="/1_CXR/1-1_Chest X-ray 촬영 원리 및 방법/Untitled 3.png"></img><br/>)
 
 - 환자가 옆으로 누운 상태에서 촬영하는 전면 사진
 - 흉막 삼출액의 양, 흉막 삼출액의 이동성 또는 위치를 확인하기 위해 촬영
