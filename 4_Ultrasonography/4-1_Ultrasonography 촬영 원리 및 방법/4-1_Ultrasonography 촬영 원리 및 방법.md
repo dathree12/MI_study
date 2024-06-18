@@ -43,13 +43,13 @@ Created by: 세연 박
 
 - 컴퓨터, 모니터, 탐촉자(probe, transducer)로 구성됨
     
-    ![Untitled](1%20Ultrasonography%20%E1%84%8E%E1%85%AA%E1%86%AF%E1%84%8B%E1%85%A7%E1%86%BC%20%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%85%E1%85%B5%20%E1%84%86%E1%85%B5%E1%86%BE%20%E1%84%87%E1%85%A1%E1%86%BC%E1%84%87%E1%85%A5%E1%86%B8%20ee194b85730d4fc1942e683de60f7f18/Untitled.png)
+    <img src="/4_Ultrasonography/4-1_Ultrasonography 촬영 원리 및 방법/Untitled.png"></img><br/>
     
     - 탐촉자
         - 본체에 선으로 연결되어 있는 유선 마이크 같은 장비로 초음파를 발생시키고 인체에서 반사되는 음파를 받는 역할을 함
         - 검사 부위와 목적에 따라 모양과 크기가 다름
         
-        ![Untitled](1%20Ultrasonography%20%E1%84%8E%E1%85%AA%E1%86%AF%E1%84%8B%E1%85%A7%E1%86%BC%20%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%85%E1%85%B5%20%E1%84%86%E1%85%B5%E1%86%BE%20%E1%84%87%E1%85%A1%E1%86%BC%E1%84%87%E1%85%A5%E1%86%B8%20ee194b85730d4fc1942e683de60f7f18/Untitled%201.png)
+        <img src="/4_Ultrasonography/4-1_Ultrasonography 촬영 원리 및 방법/Untitled 1.png"></img><br/>
         
 
 **탐촉자의 종류**
@@ -127,14 +127,14 @@ Created by: 세연 박
     - 붉은색은 변환기로 향하는 혈류를 나타내고 청색은 변환기에서 멀리 떨어진 혈류를 나타냄
     - 내부 장기와 종양으로 가는 혈류를 평가할 수 있음
     
-    ![Untitled](1%20Ultrasonography%20%E1%84%8E%E1%85%AA%E1%86%AF%E1%84%8B%E1%85%A7%E1%86%BC%20%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%85%E1%85%B5%20%E1%84%86%E1%85%B5%E1%86%BE%20%E1%84%87%E1%85%A1%E1%86%BC%E1%84%87%E1%85%A5%E1%86%B8%20ee194b85730d4fc1942e683de60f7f18/Untitled%202.png)
+     <img src="/4_Ultrasonography/4-1_Ultrasonography 촬영 원리 및 방법/Untitled 2.png"></img><br/>
     
 
 ### 3차원 이미징
 
 - 최근에 초음파 기술이 발전되어 3차원으로 몸 속의 장기나 태아를 보여주는 3차원 초음파검사(3D ultrasonography)가 널리 행해지고 있으며, 3차원 영상의 움직임까지 표현되는 4차원 초음파검사(4D ultrasonography)도 이용되고 있음
     
-    ![Untitled](1%20Ultrasonography%20%E1%84%8E%E1%85%AA%E1%86%AF%E1%84%8B%E1%85%A7%E1%86%BC%20%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%85%E1%85%B5%20%E1%84%86%E1%85%B5%E1%86%BE%20%E1%84%87%E1%85%A1%E1%86%BC%E1%84%87%E1%85%A5%E1%86%B8%20ee194b85730d4fc1942e683de60f7f18/Untitled%203.png)
+     <img src="/4_Ultrasonography/4-1_Ultrasonography 촬영 원리 및 방법/Untitled 3.png"></img><br/>
     
 
 ### Reference
