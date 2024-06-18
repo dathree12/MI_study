@@ -4,7 +4,6 @@ $\color{#B2C8BA}\rule{480px}{5px}$
 
 ## 1. Introduction
 
-<aside>
 🐲 To study all about Medical imaging with DL, 
 including X-rays, CT scans, MRIs, Ultrasonography, and Pathological images.
 
@@ -13,49 +12,15 @@ including X-rays, CT scans, MRIs, Ultrasonography, and Pathological images.
 ✅Final Meeting : 2024.02.29 (Thur)
 
 💚Our github : https://github.com/dathree12/MI_study
+
 💚Member github💚
-- 김병우 : 
-- 박다슬 : [https://github.com/dathree12](https://github.com/dathree12)
-- 박세연 : [https://github.com/SEYEONEE](https://github.com/SEYEONEE)
-- 이건희 : [https://github.com/geony-yi](https://github.com/geony-yi/)
-- 이태훈 : [https://github.com/LeeTaeHoon97](https://github.com/LeeTaeHoon97)
+- 김병우 (CT)                : 
+- 박다슬 (Pathological image): [https://github.com/dathree12](https://github.com/dathree12)
+- 박세연 (Ultrasonography)   : [https://github.com/SEYEONEE](https://github.com/SEYEONEE)
+- 이건희 (Chest X-ray)       : [https://github.com/geony-yi](https://github.com/geony-yi/)
+- 이태훈 (MRIs)              : [https://github.com/LeeTaeHoon97](https://github.com/LeeTaeHoon97)
 
-</aside>
-
-## 2. Medical Imaging Type
-
-<aside>
-<img src="Medical%20Image%20Study%20(2024)%207cdd09cecdd444ff9710898945ff1733/Frame_48096033.png" alt="Medical%20Image%20Study%20(2024)%207cdd09cecdd444ff9710898945ff1733/Frame_48096033.png" width="40px" /> Chest X-ray (이건희)
-
-</aside>
-
-<aside>
-<img src="Medical%20Image%20Study%20(2024)%207cdd09cecdd444ff9710898945ff1733/Frame_48096034.png" alt="Medical%20Image%20Study%20(2024)%207cdd09cecdd444ff9710898945ff1733/Frame_48096034.png" width="40px" /> CT scans (김병우)
-
-</aside>
-
-<aside>
-<img src="Medical%20Image%20Study%20(2024)%207cdd09cecdd444ff9710898945ff1733/Frame_48096035.png" alt="Medical%20Image%20Study%20(2024)%207cdd09cecdd444ff9710898945ff1733/Frame_48096035.png" width="40px" /> MRIs (이태훈)
-
-</aside>
-
-<aside>
-<img src="Medical%20Image%20Study%20(2024)%207cdd09cecdd444ff9710898945ff1733/Frame_48096036.png" alt="Medical%20Image%20Study%20(2024)%207cdd09cecdd444ff9710898945ff1733/Frame_48096036.png" width="40px" /> Ultrasonography (박세연)
-
-</aside>
-
-<aside>
-<img src="Medical%20Image%20Study%20(2024)%207cdd09cecdd444ff9710898945ff1733/Frame_48096037.png" alt="Medical%20Image%20Study%20(2024)%207cdd09cecdd444ff9710898945ff1733/Frame_48096037.png" width="40px" /> Pathological images (박다슬)
-
-</aside>
-
----
-
-$\color{#B2C8BA}\rule{480px}{5px}$
-
-## 3. Study Note
-
-$\color{#B2C8BA}\rule{480px}{1px}$
+💚Member github💚
 
 **💡1. 작성 주제**
 
