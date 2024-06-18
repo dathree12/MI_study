@@ -3,15 +3,15 @@
 ## 1. Introduction
 
 🐲 To study all about Medical imaging with DL, 
-including X-rays, CT scans, MRIs, Ultrasonography, and Pathological images under the affiliation of Seoul National University Hospital.
+including X-rays, CT scans, MRIs, Ultrasonography, and Pathological images under the affiliation of Seoul National University Hospital.  
 
-✅Date : 2024.02.12 (Mon) - 2024.02.29 (Thur)
-✅First Meeting : 2024.02.23 (Fri)
-✅Final Meeting : 2024.02.29 (Thur)
+✅Date : 2024.02.12 (Mon) - 2024.02.29 (Thur)  
+✅First Meeting : 2024.02.23 (Fri)  
+✅Final Meeting : 2024.02.29 (Thur)  
 
-💚Our github : https://github.com/dathree12/MI_study
+💚Our github : https://github.com/dathree12/MI_study  
 
-💚Member github💚
+💚Member github💚  
 - 김병우 (CT)                : 
 - 박다슬 (Pathological image): [https://github.com/dathree12](https://github.com/dathree12)
 - 박세연 (Ultrasonography)   : [https://github.com/SEYEONEE](https://github.com/SEYEONEE)
