@@ -25,8 +25,7 @@ Created by: Daseul Park
 ”**조직학적 진단, 등급(Grade) / 병기(Stage 관련 항목, 크기, 임파선 전이 여부, 절연침범 여부, 기타”**
 - 진단 외에 예후 및 치료에 필요한 소견들을 병리 검사를 통해 확인하고 보고서에 기술한다.
 
-<img src="/Pathological images/1 Pathological image 촬영 원리 및 방법/Untitled 1.png" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>)
-
+<img src="/Pathological images/1 Pathological image 촬영 원리 및 방법/Untitled.png"></img><br/>)
 이미지 출처 : 2022 공학자를 위한 임상개론 수업자료 (병리과 문경철 교수님)
 
 ### 1.2.1 병기 (Stage)
@@ -67,7 +66,7 @@ Created by: Daseul Park
 **- 헤마톡실린(Hematoxylin)**은 **세포의 핵을 청색(또는 푸른색에 가까운 보라색)으로 염색시킴
 - 에오신(Eosin)**은 H&E 염색에서 대조염색제로 사용이 되면 **헤마톡실린에 염색되지 않는 거의 모든 구조(세포질)에 붉은색으로 염색이 됩니다.**
 
-![이미지 출처 : Wikipedia H&E stain ](1%20Pathological%20image%20%E1%84%8E%E1%85%AA%E1%86%AF%E1%84%8B%E1%85%A7%E1%86%BC%20%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%85%E1%85%B5%20%E1%84%86%E1%85%B5%E1%86%BE%20%E1%84%87%E1%85%A1%E1%86%BC%E1%84%87%E1%85%A5%E1%86%B8%20002e089d1bc048aab24bb627a696632f/Untitled%201.png)
+<img src="/Pathological images/1 Pathological image 촬영 원리 및 방법/Untitled 1.png"></img><br/>)
 
 이미지 출처 : Wikipedia H&E stain 
 
@@ -75,7 +74,7 @@ Created by: Daseul Park
 
 - Periodic acid-Schiff (PAS) staining는 polysaccharides(다당류)의 존재를 감지하기 위한 염색. 자홍색으로 염색 됨. 기저막, 글리코겐 저장병 및 특정 종류의 종양 등의 구조를 식별하는데 유용
 
-![이미지 출처 : Wikipedia](1%20Pathological%20image%20%E1%84%8E%E1%85%AA%E1%86%AF%E1%84%8B%E1%85%A7%E1%86%BC%20%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%85%E1%85%B5%20%E1%84%86%E1%85%B5%E1%86%BE%20%E1%84%87%E1%85%A1%E1%86%BC%E1%84%87%E1%85%A5%E1%86%B8%20002e089d1bc048aab24bb627a696632f/Untitled%202.png)
+<img src="/Pathological images/1 Pathological image 촬영 원리 및 방법/Untitled 2.png"></img><br/>)
 
 이미지 출처 : Wikipedia
 
@@ -83,7 +82,7 @@ Created by: Daseul Park
 
 - 면역병리검사는 조직이 발현하는 특이한 항원에 대한 항체를 반응시키고 이차항체 및 발색제를 처리하여 세포의 단백질 발현 양상을 현미경으로 관찰, 판독하는 방법으로 일반 염색만으로 병을 정확히 진단할 수 없을 때 사용하는 대표적인 특수 병리 검사입니다.(하기 이미지 유방암 조직의 HER-2 발현)
 
-![이미지 출처 : 분당서울대병원([https://www.snubh.org/dh/main/index.do?DP_CD=PA&MENU_ID=004008](https://www.snubh.org/dh/main/index.do?DP_CD=PA&MENU_ID=004008))](1%20Pathological%20image%20%E1%84%8E%E1%85%AA%E1%86%AF%E1%84%8B%E1%85%A7%E1%86%BC%20%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%85%E1%85%B5%20%E1%84%86%E1%85%B5%E1%86%BE%20%E1%84%87%E1%85%A1%E1%86%BC%E1%84%87%E1%85%A5%E1%86%B8%20002e089d1bc048aab24bb627a696632f/Untitled%203.png)
+<img src="/Pathological images/1 Pathological image 촬영 원리 및 방법/Untitled 3.png"></img><br/>)
 
 이미지 출처 : 분당서울대병원([https://www.snubh.org/dh/main/index.do?DP_CD=PA&MENU_ID=004008](https://www.snubh.org/dh/main/index.do?DP_CD=PA&MENU_ID=004008))
 
@@ -91,7 +90,7 @@ Created by: Daseul Park
 
 - 조직이나 세포에서 추출한 핵산을 대상으로 중합효소연쇄반응(PCR), 메틸화특이 PCR(MSP), 형광동소교잡반응(FISH), 염기서열분석(Sanger sequencing), 미소부수체불안정(MSI) 등의 검사를 시행하여 유전자 수준의 이상을 확인하는 검사이다.
 
-![이미지 출처 : [https://cri.snu.ac.kr/information/cancer-diagnosis/info3](https://cri.snu.ac.kr/information/cancer-diagnosis/info3) (서울대병원 암정보교육관)](1%20Pathological%20image%20%E1%84%8E%E1%85%AA%E1%86%AF%E1%84%8B%E1%85%A7%E1%86%BC%20%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%85%E1%85%B5%20%E1%84%86%E1%85%B5%E1%86%BE%20%E1%84%87%E1%85%A1%E1%86%BC%E1%84%87%E1%85%A5%E1%86%B8%20002e089d1bc048aab24bb627a696632f/Untitled%204.png)
+<img src="/Pathological images/1 Pathological image 촬영 원리 및 방법/Untitled 4.png"></img><br/>)
 
 이미지 출처 : [https://cri.snu.ac.kr/information/cancer-diagnosis/info3](https://cri.snu.ac.kr/information/cancer-diagnosis/info3) (서울대병원 암정보교육관)
 
@@ -112,7 +111,7 @@ Created by: Daseul Park
 3. 현미경 관찰 : 병리진단 : 위암
 4. 디지털병리 슬라이드 스캐너를 통해 유리 슬라이드를 초고해상도의 디지털 이미지로 변환
 
-![이미지 출처 : 2022 공학자를 위한 임상개론 수업자료 (병리과 문경철 교수님)](1%20Pathological%20image%20%E1%84%8E%E1%85%AA%E1%86%AF%E1%84%8B%E1%85%A7%E1%86%BC%20%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%85%E1%85%B5%20%E1%84%86%E1%85%B5%E1%86%BE%20%E1%84%87%E1%85%A1%E1%86%BC%E1%84%87%E1%85%A5%E1%86%B8%20002e089d1bc048aab24bb627a696632f/Untitled%205.png)
+<img src="/Pathological images/1 Pathological image 촬영 원리 및 방법/Untitled 5.png"></img><br/>)
 
 이미지 출처 : 2022 공학자를 위한 임상개론 수업자료 (병리과 문경철 교수님)
 
@@ -125,7 +124,7 @@ Created by: Daseul Park
 5. 현미경 관찰 : 병리진단
 6. 디지털병리 슬라이드 스캐너를 통해 유리 슬라이드를 초고해상도의 디지털 이미지로 변환
 
-![이미지 출처 : 2022 공학자를 위한 임상개론 수업자료 (병리과 문경철 교수님)](1%20Pathological%20image%20%E1%84%8E%E1%85%AA%E1%86%AF%E1%84%8B%E1%85%A7%E1%86%BC%20%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%85%E1%85%B5%20%E1%84%86%E1%85%B5%E1%86%BE%20%E1%84%87%E1%85%A1%E1%86%BC%E1%84%87%E1%85%A5%E1%86%B8%20002e089d1bc048aab24bb627a696632f/Untitled%206.png)
+<img src="/Pathological images/1 Pathological image 촬영 원리 및 방법/Untitled 6.png"></img><br/>)
 
 이미지 출처 : 2022 공학자를 위한 임상개론 수업자료 (병리과 문경철 교수님)
 
@@ -133,9 +132,6 @@ Created by: Daseul Park
 
 1. 디지털 병리 관련 읽어보면 좋은 기사 ([http://www.kmdianews.com/news/articleView.html?idxno=60762](http://www.kmdianews.com/news/articleView.html?idxno=60762))
 2. 디지털 병리 가이드라인 권고안 (jpathololtm)
-    
-    [디지털병리_가이드라인_권고안.pdf](1%20Pathological%20image%20%E1%84%8E%E1%85%AA%E1%86%AF%E1%84%8B%E1%85%A7%E1%86%BC%20%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%85%E1%85%B5%20%E1%84%86%E1%85%B5%E1%86%BE%20%E1%84%87%E1%85%A1%E1%86%BC%E1%84%87%E1%85%A5%E1%86%B8%20002e089d1bc048aab24bb627a696632f/%25EB%2594%2594%25EC%25A7%2580%25ED%2584%25B8%25EB%25B3%2591%25EB%25A6%25AC_%25EA%25B0%2580%25EC%259D%25B4%25EB%2593%259C%25EB%259D%25BC%25EC%259D%25B8_%25EA%25B6%258C%25EA%25B3%25A0%25EC%2595%2588.pdf)
-    
 3. H&E 염색[https://woodangnetwork.com/Blog/?idx=16042043&bmode=view](https://woodangnetwork.com/Blog/?idx=16042043&bmode=view)
 
 [https://biology-statistics-programming.tistory.com/211](https://biology-statistics-programming.tistory.com/211)
