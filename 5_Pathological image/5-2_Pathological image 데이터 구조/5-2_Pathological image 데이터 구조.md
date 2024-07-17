@@ -45,7 +45,6 @@ Created by: Daseul Park
 
 - Akoya Biosciences, Olympus, Zeiss, Leica, KFBio, Philips scanner, 사진에는 없지만 Hamamatsu가 존재
 - [https://www.drivendata.org/competitions/67/competition-cervical-biopsy/page/256/](https://www.drivendata.org/competitions/67/competition-cervical-biopsy/page/256/)
-- **서울대학교병원은 Leica에서 제조한 스캐너 사용**
 
 ## 2.1 Leica biosystem scanner (서울대학교병원 사용)
 
