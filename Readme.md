@@ -12,7 +12,7 @@ including X-rays, CT scans, MRIs, Ultrasonography, and Pathological images under
 💚Our github : https://github.com/dathree12/MI_study  
 
 💚Member github💚  
-- 김병우 (CT)                : 
+- 이준석, 김병우 (CT)                : 
 - 박다슬 (Pathological image): [https://github.com/dathree12](https://github.com/dathree12)
 - 박세연 (Ultrasonography)   : [https://github.com/SEYEONEE](https://github.com/SEYEONEE)
 - 이건희 (Chest X-ray)       : [https://github.com/geony-yi](https://github.com/geony-yi/)
